@@ -2,7 +2,7 @@
 ### **Hello, I'm Shivam Shaurya** 👋
 
 ### 👨🏻‍💻 About Me
-🎓 I'm a Pre-Final Year Engineering Student at Delhi Technological University.\
+🎓 I'm a Pre-Final Year Engineering Student at Delhi Technological University.
 
 
 ### 🛠 Languages and Tools
