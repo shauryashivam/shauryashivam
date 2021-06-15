@@ -34,7 +34,7 @@
 
 
 
-[![Shivam's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hemangdtu&theme=react-dark)](https://github.com/shauryashivam)
+[![Shivam's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivamshaurya&theme=react-dark)](https://github.com/shauryashivam)
 
 
 ### 🤝🏻 Want to Connect?
