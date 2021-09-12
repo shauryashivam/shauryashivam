@@ -36,20 +36,3 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shauryashivam&bg_color=000000&color=3ba333&line=00f56a&point=00ffbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🤝🏻 Want to Connect?
-<p align="center">
-<a href="https://twitter.com/Shivam5799">
-  <img align="left" alt="Hemang's Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
-</a>
-<a href="https://in.linkedin.com/in/shivam-in">
-  <img align="left" alt="Hemang's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />
-</a>
-<a href="https://github.com/shauryashivam">
-  <img align="left" alt="Hemang's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
-</a>
-<a href="https://www.instagram.com/sh1vamshaurya">
-  <img align="left" alt="Hemang's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />
-</a>
-<a href="https://www.facebook.com/shivam.shaurya319">
-  <img align="left" alt="Hemang's Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409943.svg"  class="white" />
-</a>
